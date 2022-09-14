@@ -1,0 +1,5 @@
+C:\GeekBrains\04.08.2022\Exampels\DZ50\obj\Debug\net6.0\DZ50.csproj.AssemblyReference.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ50\obj\Debug\net6.0\DZ50.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\04.08.2022\Exampels\DZ50\obj\Debug\net6.0\DZ50.AssemblyInfoInputs.cache
+C:\GeekBrains\04.08.2022\Exampels\DZ50\obj\Debug\net6.0\DZ50.AssemblyInfo.cs
+C:\GeekBrains\04.08.2022\Exampels\DZ50\obj\Debug\net6.0\DZ50.csproj.CoreCompileInputs.cache
